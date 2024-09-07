@@ -1,0 +1,23 @@
+<?php return [
+'pincode' => 'Пин-код',
+'city' => 'Город',
+'state' => 'Штат',
+'delivery_days' => 'Дни доставки',
+'pincode_list' => 'Список пин-кодов',
+'add_new_pincode' => 'Добавить новый пин-код',
+'delete_pincode' => 'Удалить пин-код',
+'created_at' => 'Создано в',
+'create_new_pincode' => 'Создать новый пин-код',
+'edit_pincode' => 'Редактировать пин-код',
+'checkpincode_config' => 'Конфигурации проверки пин-кода',
+'pincode_config' => 'Конфигурация пин-кода',
+'pincode_check_system_status' => 'Система проверки пин-кода',
+'delivery_days_status' => 'Показать дни доставки',
+'bulk_pincode_upload' => 'Загрузка кода пин-кода оптом',
+'bulk_upload' => 'Массовая загрузка пин-кодов',
+'check_pincode' => 'Проверить пин-код',
+'check' => 'ПРОВЕРИТЬ',
+'available_at' => 'Доступно по адресу',
+'oops_we_are_not_currently_servicing_your_area' => 'Упс! Мы в настоящее время не обслуживаем вашу область',
+
+];

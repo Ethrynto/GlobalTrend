@@ -1,0 +1,25 @@
+<?php
+return [
+    'Account' => 'Счет',
+    'Chart Of Accounts' => 'Справочник счетов',
+    'Bank Accounts' => 'Банковские счета',
+    'Incomes' => 'Доходы',
+    'Expenses' => 'Расходы',
+    'Parent Account' => 'Родительский счет',
+    'Name' => 'Имя',
+    'Code' => 'Код',
+    'Type' => 'Тип',
+    'Description' => 'Описание',
+    'Default for' => 'По умолчанию для',
+    'Amount' => 'Сумма',
+    'Transaction date' => 'Дата транзакции',
+    'Profit' => 'Прибыль',
+    'From The Beginning' => 'С начала',
+    'Balance' => 'Баланс',
+    'GST/TAX/VAT' => 'GST / НДС / Налог на добавленную стоимость',
+    'Opening Balance' => 'Открывающий баланс',
+    'Main Income Account' => 'Основной доходный счет',
+    'Total Product Wise Tax' => 'Общий налог по продуктам',
+    'Transaction' => 'Транзакция',
+    'Statement' => 'Отчет'
+];

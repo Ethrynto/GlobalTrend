@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'global_seo_setup' => 'Գլոբալ SEO Կարգավորում',
+    'home_page_seo' => 'Գլխավոր էջի SEO',
+    'product_page_seo' => 'Ապրանքի էջի SEO',
+    'category_page_seo' => 'Կատեգորիայի էջի SEO',
+    'brand_page_seo' => 'Բրենդի էջի SEO',
+    'tag_page_seo' => 'Տեգի էջի SEO',
+    'post_page_seo' => 'Գրառման էջի SEO',
+    'dynamic_page_seo' => 'Դինամիկ էջի SEO',
+    'meta_title' => 'Մետա վերնագիր',
+    'meta_image' => 'Մետա պատկեր',
+    'homepage_meta_image' => 'Գլխավոր էջի մետա պատկեր',
+    'homepage_meta_title' => 'Գլխավոր էջի մետա վերնագիր',
+    'homepage_meta_description' => 'Գլխավոր էջի մետա նկարագրություն',
+    'homepage_meta_keywords' => 'Գլխավոր էջի մետա բանալի բառեր',
+    'product_page_meta_image' => 'Ապրանքի էջի մետա պատկեր',
+    'product_page_meta_title' => 'Ապրանքի էջի մետա վերնագիր',
+    'product_page_meta_description' => 'Ապրանքի էջի մետա նկարագրություն',
+    'product_page_meta_keywords' => 'Ապրանքի էջի մետա բանալի բառեր',
+    'upload_meta_image' => 'Բեռնեք Մետա Նկար',
+    'meta_title_60_max_recommended_characters' => 'Մետա վերնագիր 60 առավելագույն առաջարկվող նիշ',
+    'meta_description_160_max_recommended_characters' => 'Մետա նկարագրություն 160 առավելագույն առաջարկվող նիշ',
+];

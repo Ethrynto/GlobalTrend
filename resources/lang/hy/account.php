@@ -1,0 +1,25 @@
+<?php
+return [
+    'Account' => 'Հաշիվ',
+    'Chart Of Accounts' => 'Հաշիվների աղյուսակ',
+    'Bank Accounts' => 'Բանկային հաշիվներ',
+    'Incomes' => 'Մուտքեր',
+    'Expenses' => 'Ծախսեր',
+    'Parent Account' => 'Հայրական հաշիվ',
+    'Name' => 'Անուն',
+    'Code' => 'Կոդ',
+    'Type' => 'Տեսակ',
+    'Description' => 'Նկարագրություն',
+    'Default for' => 'Ավանդական',
+    'Amount' => 'Գումար',
+    'Transaction date' => 'Գործարքի ամսաթիվ',
+    'Profit' => 'Արժույթ',
+    'From The Beginning' => 'Սկզբից',
+    'Balance' => 'Բալանս',
+    'GST/TAX/VAT' => 'ԳՍՏ /ՀԴՄ /ԱԱՀ',
+    'Opening Balance' => 'Բացման մնացորդ',
+    'Main Income Account' => 'Հիմնական եկամուտի հաշիվ',
+    'Total Product Wise Tax' => 'Ընդհանուր արտադրանքի-wise հարկ',
+    'Transaction' => 'Գործարք',
+    'Statement' => 'Հաշիվ'
+];

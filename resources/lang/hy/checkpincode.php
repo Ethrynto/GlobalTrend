@@ -1,0 +1,23 @@
+<?php return [
+'pincode' => 'Փոստային կոդ',
+'city' => 'Քաղաք',
+'state' => 'Պետություն',
+'delivery_days' => 'Առաքման օրեր',
+'pincode_list' => 'Փոստային կոդերի ցանկ',
+'add_new_pincode' => 'Ավելացնել նոր փոստային կոդ',
+'delete_pincode' => 'Ջնջել փոստային կոդը',
+'created_at' => 'Ստեղծված է',
+'create_new_pincode' => 'Ստեղծել նոր փոստային կոդ',
+'edit_pincode' => 'Խմբագրել փոստային կոդը',
+'checkpincode_config' => 'Փոստային կոդի ստուգման կարգավորումներ',
+'pincode_config' => 'Փոստային կոդի կարգավորում',
+'pincode_check_system_status' => 'Փոստային կոդի ստուգման համակարգ',
+'delivery_days_status' => 'Առաքման օրերի ցուցադրում',
+'bulk_pincode_upload' => 'Մեծածախ փոստային կոդի բեռնաթափում',
+'bulk_upload' => 'Մեծածախ փոստային կոդերի բեռնաթափում',
+'check_pincode' => 'Ստուգել փոստային կոդը',
+'check' => 'ՍՏՈՒԳ',
+'available_at' => 'Հասանելի է',
+'oops_we_are_not_currently_servicing_your_area' => 'Օops! Մենք ներկայումս ձեր տարածաշրջանում ծառայություն չենք մատուցում',
+
+];

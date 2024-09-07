@@ -1,0 +1,8 @@
+{
+  "InitPayment": {
+    "form_url": "https://example.com/form"
+  },
+  "GetPayment": {
+    "status": "success"
+  }
+}
